@@ -38,7 +38,11 @@ body{
     font-size: 20 px;
 }
 
-.footer .logo-footer{
+.footer{
+    padding: 0.5em;
+} 
+
+.logo-footer{
     width: 25px;
 
 }
