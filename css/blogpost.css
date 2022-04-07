@@ -35,4 +35,10 @@ body{
 }
 
 .conatiner h1 {
-    font-size: 20 px;}
+    font-size: 20 px;
+}
+
+.footer .logo-footer{
+    width: 25px;
+
+}
